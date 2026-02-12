@@ -1,0 +1,3 @@
+# Bolt
+
+Binary releases only.
