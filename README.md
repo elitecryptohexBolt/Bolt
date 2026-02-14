@@ -1,3 +1,3 @@
-# Bolt
+# Bolt Demo
 
-Binary releases only.
+YOU ARE USING THE DEMO VERSION,TRANSACTIONS ARE DISABLED
